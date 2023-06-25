@@ -76,7 +76,7 @@ table td, table th {
     border: 0.1rem solid var(--light-gray-color);
 }
 
-tfoot, table th {
+tfoot td, table th {
     background: var(--light-gray-color);
 }
 
